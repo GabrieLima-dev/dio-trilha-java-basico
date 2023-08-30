@@ -30,7 +30,7 @@ public class ProcessoSeletivo {
         if(atendeu) {
             System.out.println("Conseguimos contato com " + candidato + "na " + tentativasRealizadas + " tentativa");
         }else{
-            System.out.println(System.out.println("Não conseguimos contato com " + candidato + ", número máximo de tentativas " + tentativasRealizadas + " tentativa");
+            System.out.println("Não conseguimos contato com " + candidato + ", número máximo de tentativas " + tentativasRealizadas + " tentativa");
         }
     }
 
